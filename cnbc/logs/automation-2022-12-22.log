@@ -1,0 +1,544 @@
+06:02:52.732 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:02:55.354 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+06:02:55.357 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+06:03:00.446 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+06:03:10.561 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+06:03:39.338 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:03:40.896 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+06:03:40.899 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+06:03:48.594 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+06:03:58.673 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+06:05:06.659 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:05:08.427 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+06:05:08.431 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+06:05:15.769 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+06:05:25.800 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+06:20:00.905 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:20:01.341 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:20:07.377 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+06:20:07.381 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+06:20:09.748 [TestNG-tests-3] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+06:20:11.178 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+06:20:44.554 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:20:45.018 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:20:50.368 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+06:20:50.496 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+06:20:50.498 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+06:20:50.764 [TestNG-tests-3] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+06:21:41.473 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:21:41.472 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:21:45.247 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+06:21:45.250 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+06:21:49.776 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+06:21:49.777 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+06:21:59.986 [TestNG-tests-3] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+06:22:10.070 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+06:23:26.312 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:23:32.496 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:23:46.579 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+06:23:46.583 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+06:23:47.888 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+06:23:48.963 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+06:39:26.959 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:39:28.530 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+06:39:28.534 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+06:39:36.624 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+06:39:42.113 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+06:39:42.117 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+15:25:12.997 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+15:25:15.500 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:25:15.504 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+15:25:26.340 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:26:20.500 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+15:26:21.023 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:26:21.026 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+15:26:32.214 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:26:37.484 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+15:26:37.486 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+15:27:04.948 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+15:27:15.212 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+15:36:07.340 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+15:36:08.127 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:36:08.130 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+15:36:18.203 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+15:36:46.229 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+15:36:48.133 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:36:48.136 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+15:36:58.608 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:37:07.248 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+15:37:08.387 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+15:46:17.861 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+15:46:19.495 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:46:19.497 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+15:46:25.658 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:46:32.852 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+15:46:33.965 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+16:04:47.482 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+16:04:49.827 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+16:04:49.831 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+16:04:55.682 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+16:05:05.722 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+16:05:40.612 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+16:05:40.827 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+16:05:41.153 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+16:07:01.642 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+16:07:03.276 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+16:07:03.278 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+16:07:11.381 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+16:07:17.476 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+16:07:18.592 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+16:07:40.062 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+16:07:42.109 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+16:07:46.883 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+16:14:15.119 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+16:14:15.336 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+16:14:15.342 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+16:14:25.381 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+16:14:37.413 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+16:14:37.535 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+16:14:47.561 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+16:15:32.462 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+16:15:36.862 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+16:15:36.865 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+16:15:42.277 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+16:15:46.514 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+16:15:46.516 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+16:16:24.416 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+16:16:25.114 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+16:16:35.697 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+16:19:36.791 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+16:19:37.053 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+16:19:53.275 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+16:22:53.142 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+16:22:56.213 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+16:23:11.939 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+16:23:14.479 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+16:23:14.480 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+16:23:19.542 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Save Changes
+16:23:19.675 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+16:23:19.677 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+19:49:51.205 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+19:49:55.867 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+19:50:08.968 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+19:50:10.447 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+19:50:10.448 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+19:50:13.498 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Save Changes
+19:50:13.568 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+19:50:13.568 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+19:50:13.600 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+19:50:23.659 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+19:50:23.838 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+19:50:33.878 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+19:50:34.083 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+19:50:44.121 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+19:50:44.268 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+19:50:54.334 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+19:54:58.016 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+19:55:02.926 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+19:55:15.459 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+19:55:17.573 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+19:55:17.573 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+19:55:21.037 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Save Changes
+19:55:21.233 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+19:55:21.233 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+19:55:21.255 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+19:55:31.311 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+19:55:31.496 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+19:55:41.562 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+19:55:41.694 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+19:55:51.785 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+19:55:51.954 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:00:12.394 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:00:17.393 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+20:01:54.294 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:01:57.764 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+20:02:47.457 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:02:53.960 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+20:03:05.369 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+20:03:06.981 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+20:03:06.982 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+20:03:12.542 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Save Changes
+20:03:12.607 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+20:03:12.607 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+20:03:12.638 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:03:22.685 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:03:22.854 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:03:32.931 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:03:33.100 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:03:44.649 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+20:11:49.033 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:11:57.030 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+20:12:09.007 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+20:12:10.873 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+20:12:10.873 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+20:12:17.965 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Save Changes
+20:12:18.042 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+20:12:18.043 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+20:12:18.076 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:12:28.198 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:12:28.385 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:12:38.473 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:12:38.646 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:12:48.686 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:12:48.861 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:12:58.910 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:15:38.925 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:15:42.090 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+20:15:55.301 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+20:15:57.267 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+20:15:57.267 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+20:16:02.681 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Save Changes
+20:16:02.960 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+20:16:02.961 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+20:16:02.991 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:16:13.100 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:16:13.297 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:16:23.378 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:16:23.546 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:16:33.575 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:16:33.764 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:16:43.797 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:20:02.551 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:20:07.114 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+20:20:20.980 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+20:20:22.608 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+20:20:22.608 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+20:20:28.340 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+20:20:28.340 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+20:20:28.361 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:20:38.433 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:20:38.661 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:20:48.699 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:20:48.846 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:20:58.883 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:20:59.056 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:21:09.108 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:24:01.254 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:24:08.784 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+20:24:20.291 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+20:24:21.951 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+20:24:21.951 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+20:24:26.520 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+20:24:26.521 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+20:24:26.551 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:24:36.629 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:24:36.882 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:24:46.953 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:24:47.177 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:24:57.225 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:24:57.469 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:25:07.576 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:28:49.056 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:28:53.939 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+20:29:07.486 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+20:29:09.131 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+20:29:09.131 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+20:29:13.977 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+20:29:13.980 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+20:29:14.000 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:29:24.073 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:29:24.242 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:29:34.305 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:29:34.460 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:32:05.926 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:32:12.494 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+20:32:23.727 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+20:32:25.969 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+20:32:25.969 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+20:32:30.663 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+20:32:30.666 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+20:32:30.695 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:32:40.746 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:32:40.939 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:32:50.983 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:32:51.122 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+20:33:01.179 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+20:33:01.339 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:41:03.434 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:41:10.156 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+22:41:25.294 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+22:41:27.836 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+22:41:27.837 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+22:41:36.851 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+22:41:36.853 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+22:41:36.888 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:41:46.957 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+22:41:47.137 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:44:53.663 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:44:58.022 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+22:45:14.173 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+22:45:16.903 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+22:45:16.903 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+22:45:25.223 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+22:45:25.232 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+22:45:25.257 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:45:35.280 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+22:45:35.482 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:45:45.543 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+22:45:45.724 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:45:55.802 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+22:45:56.179 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:45:57.727 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+22:47:48.672 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:47:54.639 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+22:48:08.985 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+22:48:11.833 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+22:48:11.833 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+22:48:20.510 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+22:48:20.516 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+22:48:20.544 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:48:30.625 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+22:48:30.830 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:48:36.789 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+22:48:37.114 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:48:38.239 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+22:48:39.256 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:48:40.458 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+22:54:09.679 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:54:15.913 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+22:54:29.563 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+22:54:31.625 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+22:54:31.626 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+22:54:40.436 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+22:54:40.440 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+22:54:40.511 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:54:50.654 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+22:54:50.844 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:55:00.917 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+22:55:01.076 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+22:55:11.110 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+23:03:06.804 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:03:13.096 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+23:03:27.427 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+23:03:29.860 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+23:03:29.860 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+23:03:39.633 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+23:03:39.637 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+23:03:39.670 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:03:49.704 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+23:03:49.883 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:03:59.916 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+23:04:00.073 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:04:10.095 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+23:06:34.174 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:06:41.795 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+23:06:53.576 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+23:06:55.254 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+23:06:55.254 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+23:07:07.569 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+23:07:07.574 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+23:07:07.599 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:07:17.661 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+23:07:17.868 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:07:27.906 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+23:07:28.218 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:07:38.271 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+23:11:28.025 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:11:34.860 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+23:11:50.566 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+23:11:52.897 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+23:11:52.897 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+23:12:05.451 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+23:12:05.675 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+23:12:05.734 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:12:15.779 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+23:12:15.962 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:12:26.013 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+23:12:26.359 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:12:36.416 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+23:36:19.240 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:36:23.090 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+23:36:36.973 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+23:36:38.647 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+23:36:38.647 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+23:36:44.901 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+23:36:48.021 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:36:58.119 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+23:36:58.281 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:37:08.340 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+23:37:08.496 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+23:37:18.519 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+00:03:10.877 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+00:03:14.835 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+00:03:29.035 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+00:03:30.682 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+00:03:30.682 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+00:03:36.545 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+00:03:36.580 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+00:03:46.635 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+00:03:46.805 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+00:03:56.852 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+00:03:56.997 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+00:04:07.071 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+00:05:59.656 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+00:06:04.984 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+00:06:18.461 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+00:06:19.705 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+00:06:19.705 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+00:06:25.617 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+00:12:01.213 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+00:12:06.432 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+00:12:20.416 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+00:12:22.204 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+00:12:22.205 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+00:12:27.147 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+00:17:01.938 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+00:17:08.681 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+00:17:19.843 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+00:17:21.511 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+00:17:21.511 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+00:17:26.324 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+00:19:25.717 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+00:19:29.547 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+00:19:43.284 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+00:19:44.548 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+00:19:44.549 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+00:19:50.404 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+00:19:50.407 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+00:25:19.862 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+00:25:25.059 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Sign In
+00:25:37.553 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on My account link
+00:25:39.277 [main] INFO  testCases.TC_002_ProfileUpdateTest - Clicked on Profile link
+00:25:39.277 [main] INFO  testCases.TC_002_ProfileUpdateTest - Providing customer data
+00:25:44.416 [main] INFO  testCases.TC_002_ProfileUpdateTest - Validating expected message
+00:25:44.420 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Finished TC_002_ProfileUpdateTest ***
+00:25:44.478 [main] INFO  testCases.TC_002_ProfileUpdateTest - ***  Starting TC_002_ProfileUpdateTest ***
+00:25:54.547 [main] ERROR testCases.TC_002_ProfileUpdateTest - test failed
+02:04:06.273 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:04:10.337 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:04:22.706 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:07:37.174 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:07:41.312 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:07:52.447 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:09:34.690 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:09:36.124 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:09:49.678 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:11:32.151 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:11:42.607 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:11:42.874 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:11:43.114 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:11:54.436 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:15:38.457 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:16:26.092 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:16:38.948 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:19:46.288 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:19:48.174 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:20:05.350 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:20:12.260 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:20:14.181 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:20:14.181 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:20:19.212 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:20:19.212 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:20:24.343 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:20:24.514 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:20:24.514 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:20:28.650 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:20:28.650 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:23:47.043 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:23:49.193 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:24:04.901 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:24:07.107 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:24:08.494 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:24:08.495 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:24:13.944 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:24:13.944 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:24:14.114 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:24:14.366 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:24:14.367 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:24:18.447 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:24:18.447 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:24:28.539 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:24:38.743 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:25:35.680 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:25:37.534 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:25:54.751 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:25:57.074 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:25:58.800 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:25:58.800 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:26:04.423 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:26:04.424 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:26:04.548 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:26:04.744 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:26:04.745 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:26:08.774 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:26:08.774 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:26:18.900 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:26:27.636 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:26:27.816 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:26:27.816 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:26:32.162 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:26:32.162 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:27:43.307 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:27:46.000 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:28:00.580 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:28:02.906 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:28:04.586 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:28:04.587 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:28:10.148 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:28:10.148 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:28:10.259 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:28:10.468 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:28:10.468 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:28:14.418 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:28:14.418 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:28:18.115 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:28:18.290 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:28:18.290 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:28:22.386 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:28:22.386 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:28:23.716 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:28:23.888 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:28:23.888 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:28:28.256 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:28:28.256 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:30:04.694 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:30:07.771 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:30:21.969 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:30:23.978 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:30:25.705 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:30:25.705 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:30:32.274 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:30:32.274 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:30:32.389 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:30:32.580 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:30:32.580 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:30:38.063 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:30:38.063 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:30:41.585 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:30:41.785 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:30:41.785 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:30:47.215 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:30:47.215 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:30:48.080 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:30:48.261 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:30:48.261 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:30:53.740 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:30:53.741 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:33:53.992 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:33:55.966 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:34:13.190 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:34:15.456 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:34:16.778 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:34:16.778 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:34:22.560 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:34:22.560 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:34:22.671 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:34:22.845 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:34:22.845 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:34:26.870 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:34:26.870 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:34:27.008 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:34:27.316 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:34:27.316 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:34:31.617 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:34:31.617 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:34:31.708 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:34:31.869 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:34:31.869 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:34:35.708 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:34:35.708 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:46:01.547 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:46:03.050 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:46:20.970 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:46:23.705 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:46:25.374 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link

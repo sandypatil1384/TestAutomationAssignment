@@ -1,0 +1,344 @@
+02:46:25.375 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:46:31.459 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:46:31.459 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:46:31.580 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:46:31.772 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:46:31.772 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:46:35.647 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:46:35.647 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:46:35.731 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:46:35.910 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:46:35.910 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:46:40.352 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:46:40.353 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:46:40.430 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:46:40.586 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:46:40.587 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:46:44.740 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:46:44.740 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:46:45.310 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:46:45.551 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:46:45.551 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:46:49.305 [main] INFO  testCases.TC_002_LoginTest - Clicked on Save Changes
+02:46:49.345 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:46:49.346 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:46:59.395 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:47:09.645 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:47:11.130 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:47:11.408 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:47:11.408 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:47:15.006 [main] INFO  testCases.TC_002_LoginTest - Clicked on Save Changes
+02:47:15.040 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:47:15.040 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:47:57.641 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:47:59.138 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:48:17.836 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:48:20.876 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:48:22.100 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:48:22.100 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:48:28.255 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:48:28.255 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:48:28.404 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:48:28.674 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:48:28.674 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:48:32.576 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:48:32.576 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:48:32.652 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:48:32.811 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:48:32.811 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:48:36.855 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:48:36.856 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:48:36.933 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:48:37.090 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:48:37.090 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:48:41.228 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:48:41.228 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:48:41.849 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:48:42.042 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:48:42.042 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:48:45.702 [main] INFO  testCases.TC_002_LoginTest - Clicked on Save Changes
+02:48:45.737 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:48:45.737 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:48:55.818 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:50:14.899 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:50:16.906 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:50:34.180 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:50:36.805 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:50:38.414 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:50:38.414 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:50:44.000 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:50:44.001 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:50:44.110 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:50:44.311 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:50:44.311 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:50:48.195 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:50:48.195 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:50:48.276 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:50:48.458 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:50:48.458 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:50:52.625 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:50:52.625 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:50:52.702 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:50:52.896 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:50:52.896 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:50:56.726 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:50:56.726 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:50:57.165 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:50:57.407 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:50:57.407 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:51:01.448 [main] INFO  testCases.TC_002_LoginTest - Clicked on Save Changes
+02:51:01.499 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:51:01.499 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:51:11.595 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:54:34.365 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:54:36.742 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:54:53.703 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:54:56.314 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:54:58.087 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:54:58.088 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:55:04.891 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:55:04.891 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:55:05.013 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:55:05.239 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:55:05.239 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:55:09.190 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:55:09.190 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:55:09.269 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:55:09.452 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:55:09.452 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:55:13.488 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:55:13.489 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:55:13.568 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:55:13.720 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:55:13.720 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:55:17.567 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:55:17.567 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:55:18.042 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:55:18.293 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:55:18.293 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:55:22.267 [main] INFO  testCases.TC_002_LoginTest - Clicked on Save Changes
+02:55:22.399 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:55:32.712 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:56:29.193 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:56:31.453 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:56:48.530 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:56:50.875 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:56:52.714 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:56:52.714 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:56:58.730 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:56:58.730 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:56:58.882 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:56:59.097 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:56:59.098 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:57:03.092 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:57:03.092 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:57:03.177 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:57:03.340 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:57:03.340 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:57:07.496 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:57:07.496 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:57:07.578 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:57:07.742 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:57:07.742 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:57:11.739 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:57:11.739 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:57:12.217 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:57:12.386 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:57:12.386 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:57:16.365 [main] INFO  testCases.TC_002_LoginTest - Clicked on Save Changes
+02:57:16.396 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:57:26.767 [main] ERROR testCases.TC_002_LoginTest - test failed
+02:58:42.456 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+02:58:44.563 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+02:59:01.802 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+02:59:04.105 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:59:05.749 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:59:05.751 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:59:12.654 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:59:12.654 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:59:12.780 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:59:13.002 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:59:13.002 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:59:16.868 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:59:16.869 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:59:16.973 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:59:17.142 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:59:17.142 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:59:21.172 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:59:21.172 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:59:21.250 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:59:21.410 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:59:21.410 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:59:25.307 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:59:25.307 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+02:59:25.735 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+02:59:26.004 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+02:59:26.004 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+02:59:30.016 [main] INFO  testCases.TC_002_LoginTest - Clicked on Save Changes
+02:59:30.045 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+02:59:40.391 [main] ERROR testCases.TC_002_LoginTest - test failed
+03:02:56.340 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+03:02:59.758 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+03:03:14.766 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+03:03:16.992 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+03:03:19.004 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+03:03:19.004 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+03:03:25.400 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+03:03:25.400 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:03:25.517 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+03:03:25.718 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+03:03:25.718 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+03:03:29.777 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+03:03:29.777 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:03:29.854 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+03:03:30.022 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+03:03:30.023 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+03:03:34.334 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+03:03:34.334 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:03:34.416 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+03:03:34.567 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+03:03:34.568 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+03:03:38.556 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+03:03:38.556 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:03:39.035 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+03:03:39.322 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+03:03:39.322 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+03:03:43.297 [main] INFO  testCases.TC_002_LoginTest - Clicked on Save Changes
+03:03:43.323 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+03:03:43.324 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:03:53.555 [main] ERROR testCases.TC_002_LoginTest - test failed
+03:10:19.966 [main] INFO  testCases.TC_002_LoginTest - ***  Starting TC_002_LoginTest ***
+03:10:22.216 [main] INFO  testCases.TC_002_LoginTest - Clicked on Sign In
+03:10:43.176 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_LoginTest ***
+03:10:46.352 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+03:10:48.305 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+03:10:48.305 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+03:10:53.095 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+03:10:53.095 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:10:53.205 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+03:10:53.379 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+03:10:53.379 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+03:10:57.720 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+03:10:57.721 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:10:57.801 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+03:10:57.968 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+03:10:57.969 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+03:11:02.126 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+03:11:02.126 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:11:02.212 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+03:11:02.372 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+03:11:02.372 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+03:11:06.675 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+03:11:06.675 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:11:06.990 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account link
+03:11:07.147 [main] INFO  testCases.TC_002_LoginTest - Clicked on Profile link
+03:11:07.147 [main] INFO  testCases.TC_002_LoginTest - Providing customer data
+03:11:11.107 [main] INFO  testCases.TC_002_LoginTest - Clicked on Save Changes
+03:11:11.206 [main] INFO  testCases.TC_002_LoginTest - Validating expected message
+03:11:11.206 [main] INFO  testCases.TC_002_LoginTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:13:28.901 [main] INFO  testCases.TC_002_ProfileTest - ***  Starting TC_002_LoginTest ***
+03:13:30.765 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Sign In
+03:13:47.643 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_LoginTest ***
+03:13:50.018 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+03:13:51.696 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+03:13:51.696 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+03:13:58.285 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+03:13:58.285 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:13:58.424 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+03:13:58.602 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+03:13:58.602 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+03:14:02.785 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+03:14:02.787 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:14:02.858 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+03:14:03.022 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+03:14:03.022 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+03:14:07.089 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+03:14:07.089 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:14:07.198 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+03:14:07.349 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+03:14:07.349 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+03:14:11.176 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+03:14:11.176 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:14:11.559 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+03:14:11.738 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+03:14:11.739 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+03:14:15.704 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Save Changes
+03:14:15.737 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+03:14:15.737 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:18:39.341 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+03:18:41.093 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+03:18:41.095 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+03:18:48.362 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+03:18:58.440 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+03:19:04.423 [main] INFO  testCases.TC_002_ProfileTest - ***  Starting TC_002_LoginTest ***
+03:19:06.072 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Sign In
+03:20:58.007 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+03:21:00.043 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+03:21:00.047 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+03:21:09.890 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+03:21:16.555 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+03:21:16.559 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+03:21:23.309 [main] INFO  testCases.TC_002_ProfileTest - ***  Starting TC_002_LoginTest ***
+03:21:24.959 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Sign In
+03:21:42.951 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_LoginTest ***
+03:21:45.151 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+03:21:46.905 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+03:21:46.905 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+03:21:55.901 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+03:21:55.901 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:21:56.289 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+03:21:56.604 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+03:21:56.604 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+03:22:00.739 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+03:22:00.739 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:22:00.843 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+03:22:01.088 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+03:22:01.088 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+03:22:05.307 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+03:22:05.307 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:22:05.408 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+03:22:05.641 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+03:22:05.641 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+03:22:09.800 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+03:22:09.801 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+03:22:10.171 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+03:22:10.460 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+03:22:10.461 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+03:22:14.880 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Save Changes
+03:22:14.928 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+03:22:14.929 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+13:03:45.097 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:03:48.555 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:03:48.558 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:03:54.110 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+13:03:58.025 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+13:03:58.027 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:04:04.082 [main] INFO  testCases.TC_002_ProfileTest - ***  Starting TC_002_LoginTest ***
+13:04:05.654 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Sign In
+13:04:24.311 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_LoginTest ***
+13:04:27.069 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+13:04:29.982 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+13:04:29.982 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+13:04:39.082 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+13:04:39.083 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+13:04:39.224 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+13:04:39.487 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+13:04:39.487 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+13:04:43.946 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+13:04:43.946 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+13:04:44.040 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+13:04:44.271 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+13:04:44.273 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+13:04:48.761 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+13:04:48.761 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+13:04:48.871 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+13:04:49.098 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+13:04:49.098 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+13:04:54.320 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+13:04:54.320 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
+13:04:54.679 [main] INFO  testCases.TC_002_ProfileTest - Clicked on My account link
+13:04:54.975 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Profile link
+13:04:54.975 [main] INFO  testCases.TC_002_ProfileTest - Providing customer data
+13:04:59.740 [main] INFO  testCases.TC_002_ProfileTest - Clicked on Save Changes
+13:04:59.792 [main] INFO  testCases.TC_002_ProfileTest - Validating expected message
+13:04:59.793 [main] INFO  testCases.TC_002_ProfileTest - ***  Finished TC_002_ProfileUpdateTest ***
